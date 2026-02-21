@@ -40,10 +40,10 @@ Capabilities and usages:
 # 💻Software + Modules Used
 - Windows 11 Host
 - Python v3.13.1
-- PyCharm
-- PyFiglet Module(apt install Pyfiglet or pip install Pyfiglet)
+- PyCharm 2025.3.2.1
+- PyFiglet Module(May have to install using apt or pip)
 - Hashlib Module(hashlib.sha256)
-- 
+- rockyou.txt (Wordlist)
 
 # 🎰SHA-256 Generator 
 >The code is a simple command-line tool for generating or cracking SHA-256 hashes, using a banner for aesthetics and basic error handling. Here's a step-by-step breakdown:
