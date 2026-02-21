@@ -70,3 +70,14 @@ Capabilities and usages:
 
 ### If neither 'E' nor 'D'
 - print "Invalid Choice" and break the loop.
+
+## ⚠️ Disclaimer
+
+**For educational and research purposes only.**
+
+Do NOT use any code or technique in this repository against systems you do not own or have explicit written permission to test.
+
+Unauthorized use is illegal and may result in criminal charges.
+
+The author(s) are not liable for any misuse or damage caused by this project.
+
