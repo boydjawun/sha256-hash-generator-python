@@ -1,5 +1,6 @@
 # 🎰SHA-256 Hash Generator
-<img src = https://github.com/user-attachments/assets/fbcc5de4-3af6-4719-b72c-67c6a60ced49 width = 800 height = 170/>
+<img width="850" height="335" alt="hash-generator" src="https://github.com/user-attachments/assets/df571e5e-9ab9-4349-bf64-a74b24f4fd57"/>
+
 
 # 🔍Description
 SHA-256 (Secure Hash Algorithm 256) is a cryptographic hash function from the SHA-2 family, designed by the NSA. It takes an input of any size and produces a fixed 256-bit (32-byte) output, represented as a 64-character hexadecimal string. It's a one-way function, meaning it's computationally infeasible to reverse-engineer the original input from the hash, making it ideal for security purposes. SHA-256 is collision-resistant (hard to find two inputs with the same hash) and avalanche-effect sensitive (small input changes yield vastly different outputs).
